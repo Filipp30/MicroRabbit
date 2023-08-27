@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "M+KjzNCEdViS2JxIz65ZNLxmz99tdMoigz12QPjVtUxlAqaUOEqJ1wBs5ikL9oubc8O0wDiqIenU+wiaPKCYRw==",
+  "dgSpecHash": "CCB1xx+tGG0kFTkxSN47VOTB8VbiwW916xzphUpUaREmZ/+EiNMbBepVQEl1LP4wCNswbnrii7ItXiz2wj9POQ==",
   "success": true,
   "projectFilePath": "/Users/dev/Desktop/ASP-Deel2/MicroRabbit/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/dev/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/dev/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/dev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
