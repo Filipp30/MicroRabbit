@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C97ctR97QCqqpFn6PT4cDCKXsySXQN4bKYvnhsz6unIepENJODGX911pCm7AfFG3gW3cG8fVJkAmD6N3Sk7CMg==",
+  "success": true,
+  "projectFilePath": "/Users/dev/Desktop/ASP-Deel2/MicroRabbit/MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
+  "expectedPackageFiles": [
+    "/Users/dev/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/dev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
